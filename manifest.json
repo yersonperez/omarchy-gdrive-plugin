@@ -3,7 +3,7 @@
   "id": "yerson.gdrive",
   "name": "Google Drive",
   "version": "1.0.0",
-  "author": "Yerson",
+  "author": "Yerson Perez",
   "license": "MIT",
   "description": "Google Drive status, storage usage, mount toggle, and recent files in the Omarchy bar.",
   "kinds": [

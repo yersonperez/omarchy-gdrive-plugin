@@ -21,7 +21,7 @@ Widget de barra para [Omarchy](https://omarchy.org) que integra **Google Drive**
 ## Instalación rápida
 
 ```bash
-git clone https://github.com/TU_USUARIO/omarchy-gdrive-plugin.git
+git clone https://github.com/yersonperez/omarchy-gdrive-plugin.git
 cd omarchy-gdrive-plugin
 chmod +x scripts/install.sh
 ./scripts/install.sh
